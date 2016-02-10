@@ -1,6 +1,6 @@
 name: jkntestsite33
 favicon: null
-layout_spectrum: 0.6876172157935798
+layout_spectrum: 1
 typography_spectrum: 0.8655970667023212
 title: This is a test site
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 0.18439657567068934
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
