@@ -1,8 +1,7 @@
 name: jkntestsite33
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.6876172157935798
 typography_spectrum: 0.8655970667023212
-title: This is a test site
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ed1b24'
-    - '#ffffff'
-    - '#404042'
-    - '#818286'
-    - '#f25c61'
-  brandStrength: 1
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0324093671515584
   lightness: 0.18439657567068934
-  saturation: 0
-  rhythmicContrast: 0.75
+  saturation: 0.31648096023127437
+  rhythmicContrast: 0.8581134546548128
 purpose: []
